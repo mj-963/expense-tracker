@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143465323593",
+    "project_id": "marcusxtech-website",
+    "storage_bucket": "marcusxtech-website.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143465323593:android:3b21db41f863f7a5b6f398",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMfSYi80baKZILJ70DCF67mGwSfZVshaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143465323593:android:aed139d5eb518a06b6f398",
+        "android_client_info": {
+          "package_name": "com.marcusxtechnologies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMfSYi80baKZILJ70DCF67mGwSfZVshaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
