@@ -43,3 +43,18 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+
+
+# Flutter & Dart
+build/
+.android/
+.ios/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Firebase Keys (DO NOT PUSH)
+google-services.json
+GoogleService-Info.plist
